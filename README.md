@@ -34,3 +34,10 @@
 4. `World of Naruto`
 5. `Naruto Expanded`
 6. `Drafted Auto-Combat` (this mod)
+
+---
+
+## Developer & Troubleshooting Guide
+
+Chi tiết kỹ thuật, kiến trúc mã nguồn và hướng dẫn sửa lỗi khi tích hợp được ghi lại đầy đủ tại:
+[INTEGRATION_GUIDE.md](INTEGRATION_GUIDE.md)
