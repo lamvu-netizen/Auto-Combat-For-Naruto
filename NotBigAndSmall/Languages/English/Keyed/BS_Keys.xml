@@ -1,0 +1,35 @@
+<LanguageData>
+  <!-- UI -->
+  <BS_DraftHuntLabel>Auto-Combat</BS_DraftHuntLabel>
+  <BS_HuntDescription>Track down and attack nearby foes. Any abilities on auto-cast (right-click) will be automatically used.</BS_HuntDescription>
+  <BS_TakeCoverLabel>Auto-Cover</BS_TakeCoverLabel>
+  <BS_TakeCoverDescription>Automatically try to move into cover while in combat.</BS_TakeCoverDescription>
+  <BS_MeleeChargeLabel>Long-Charge</BS_MeleeChargeLabel>
+  <BS_MeleeChargeDescription>Charge a long distance to reach seen threats / Charge only a very short distance (when off).</BS_MeleeChargeDescription>
+  <BS_FullAIControlLabel>AI Control</BS_FullAIControlLabel>
+  <BS_FullAIControlDescription>Let the AI do as it pleases. Chase across the map, bash down doors, or whatever is required to eliminate known threats. Still respects cover-setting and auto-ability use.</BS_FullAIControlDescription>
+ 
+  <BS_AutoUseAllAbilitiesLabel>Auto-Use All</BS_AutoUseAllAbilitiesLabel>
+  <BS_AutoUseAllAbilitiesDescription>Toggle automatic use of ALL abilities.\n\nNote: you can hide this button in the setting and instead simply right-click the Auto-Combat button.\n\nThis was mostly added because some users wasn't aware of the included ability to auto-cast.</BS_AutoUseAllAbilitiesDescription>
+
+  <BS_IsEnabledP>(Enabled)</BS_IsEnabledP>
+  <BS_IsDisabledP>(Disabled)</BS_IsDisabledP>
+
+  
+  <!--Settings-->
+  <BS_AutoCombatSettings>Auto-Combat</BS_AutoCombatSettings>
+  <BS_SetToDefault>Set to Default</BS_SetToDefault>
+
+  <!-- Auto Combat - Shared -->
+  <BS_AutoCombatExplain>Options for giving pawns partial autonomy in combat.</BS_AutoCombatExplain>
+  <BS_EnabledDraftedJobs>Enable auto-combat button</BS_EnabledDraftedJobs>
+  <BS_AutoCombatResets>Disable auto-combat when undrafting a pawn</BS_AutoCombatResets>
+  <BS_LongChargeDefaultOff>Disable long-charge when undrafting a pawn</BS_LongChargeDefaultOff>
+  <BS_ShowMeleeChargeBtn>Show Melee Charge button</BS_ShowMeleeChargeBtn>
+  <BS_ShowTakeCoverBtn>Show "Take Cover" button</BS_ShowTakeCoverBtn>
+  <BS_FullAIControl>Show Full AI Control button</BS_FullAIControl>
+  <BS_RightClickAutoCombat>Right click Auto-Combat gizmo behavior</BS_RightClickAutoCombat>
+  <BS_RightClickAutoCombat_ShowMenu>Open Context Menu</BS_RightClickAutoCombat_ShowMenu>
+  <BS_RightClickAutoCombat_Toggle>Toggle Auto-use of Abilities</BS_RightClickAutoCombat_Toggle>
+  
+</LanguageData>

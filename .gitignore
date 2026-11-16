@@ -1,0 +1,15 @@
+# Build artifacts
+**/bin/
+**/obj/
+*.orig
+
+# IDE & OS files
+.vs/
+.vscode/
+.idea/
+*.user
+*.suo
+*.userosv
+*.sln.docstates
+Thumbs.db
+[Dd]esktop.ini
